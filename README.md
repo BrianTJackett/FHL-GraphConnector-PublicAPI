@@ -1,0 +1,1 @@
+Sample PowerShell script to ingest public API data into a Microsoft Graph connector.  Data can be used by Microsoft 365 Copilot for reasoning over external data.  Script and readme are "work in progress".
